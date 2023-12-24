@@ -1,0 +1,44 @@
+p {
+    color: rgb(231, 159, 71);
+}
+
+footer{
+    background-color: rgb(72, 101, 126);
+}
+
+span{
+    color: black;
+}
+
+.coloring{
+    color: rgb(62, 62, 173);
+}
+
+#logo{ 
+    width: 100px;
+}
+#dog{ 
+    width: 400px;
+}
+#animals{
+    width: 400px;
+}
+  
+header,ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+header{
+    justify-content:space-between;
+    align-items: center;
+    background-color: rgb(200, 140, 154);
+    padding: 25px 35px 25px 35px;
+    margin-bottom: 40px;
+
+    
+}
+ul{
+    list-style: none;
+    MARGIN:0;
+    gap: 50px;
+}
